@@ -1,0 +1,13 @@
+/AtlantisEditor2026_Ver.*_Windows.zip
+/SHA256SUMS.txt
+*.tmp
+*.local
+.publish-plan*
+credentials*
+*token*
+.env
+.env.*
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
