@@ -56,12 +56,18 @@ ChatGPT・Codexとの共同開発です。開発ソースはこの公開用リ�
 ## 謝辞・参考
 
 本ツールの制作にあたり、ういろう様の「Atlantis Editor 2008」と、Pino（ピロピーノ）様の「Atlantis Reformer」を参考にしました。
-また、動作検証ではPino（ピロピーノ）様の「ランチの米せかんど」「トランスの辻」、norhik(謎のうｐ主)様の「アトランチスぬ謎」SUTEGOMA様の「アトランチスの謎2026」のIPSパッチを利用しました。
+
+動作検証では、次のIPSパッチを利用しました。
+
+- Pino（ピロピーノ）様「ランチの米せかんど」「トランスの辻」
+- norhik（謎のうｐ主）様「アトランチスぬ謎」
+- SUTEGOMA様「アトランチスの謎2026」
+
 長年にわたる「アトランチスの謎」の解析とツール開発、貴重な改造データの公開に心より感謝いたします。
 
 - [Atlantis Editor 2008](https://web.archive.org/web/20221220174705/https://geolog.mydns.jp/heartland.geocities.jp/frescohunter/Atlantis/Atlantis.html)
-- [Atlantis Reformer (アトランチスの匠) Ver1.11](https://web.archive.org/web/20181003185821/http://island.geocities.jp/bug_9pazo/index.html)
-- [謎のうｐ主のハックロム(アトランチスの謎限定)公開所](http://hackrom.web.fc2.com/)
+- [Atlantis Reformer（アトランチスの匠）Ver.1.11](https://web.archive.org/web/20181003185821/http://island.geocities.jp/bug_9pazo/index.html)
+- [謎のうｐ主のハックロム（アトランチスの謎限定）公開所](http://hackrom.web.fc2.com/)
 - [改造アトランチス置き場＆攻略](https://kaizouatlantis.fc2.net/)
 
 ## 非公式表記
