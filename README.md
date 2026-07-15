@@ -2,13 +2,14 @@
 
 「アトランチスの謎」のROMファイル解析・改造を扱いやすくするための、Windows向け非公式ツールです。
 
-最新版Ver.0.6.0は2026-07-15公開です。
+最新版はVer.0.6.0（2026/07/15公開）です。
 
 ## ダウンロード
 
 **[最新版をダウンロード](https://github.com/fondjp/AtlantisEditor2026/releases/latest)**
 
-配布ZIPはReleaseページのAssetsにあります。GitHubが自動表示するSource codeではなく、`AtlantisEditor2026_Ver.x.x.x_Windows.zip`を選んでください。ROMファイルは含まれていません。
+配布ZIPはReleaseページのAssetsにあります。GitHubが自動表示する「Source code」はアプリ本体ではありません。
+`AtlantisEditor2026_Ver.x.x.x_Windows.zip`を選んでください。ROMファイルは含まれていません。
 
 ## 対応環境
 
@@ -35,14 +36,14 @@
 ## 未実装・制限
 
 - カラーパレット編集
-- Atlantis Reformer相当のタイル編集
+- 「Atlantis Reformer」にあるタイル編集
 - IPSパッチ出力
 - FINAL特殊演出の完全再現・完全編集
 - NES 2.0は対象外
 
 ## 更新方法
 
-新しいversionは上書きせず、別の新しいフォルダへ展開してください。Ver.0.6.0以降は表示枚数やウィンドウ配置などのUI設定を自動的に引き継ぎます。動作確認後は古いversionのフォルダを削除できます。
+新しいバージョンは上書きせず、別の新しいフォルダへ展開してください。Ver.0.6.0以降は表示枚数やウィンドウ配置などのUI設定を自動的に引き継ぎます。動作確認後は古いバージョンのフォルダを削除できます。
 
 ## 不具合報告
 
@@ -50,12 +51,12 @@ Xの`@fondjp`まで、スクリーンショット、操作手順、状況説明�
 
 ## 開発について
 
-ChatGPT・Codexとの共同開発です。開発ソースはこの公開用repositoryには含まれません。公開配布物はRelease Assetsから取得してください。
+ChatGPT・Codexとの共同開発です。開発ソースはこの公開用リポジトリには含まれません。
 
 ## 謝辞・参考
 
 - [Atlantis Editor 2008](https://web.archive.org/web/20221220174705/https://geolog.mydns.jp/heartland.geocities.jp/frescohunter/Atlantis/Atlantis.html)
-- [Pino（ピロピーノ）様のAtlantis Reformer](https://web.archive.org/web/20181003185821/http://island.geocities.jp/bug_9pazo/index.html)
+- [Atlantis Reformer (アトランチスの匠) Ver1.11](https://web.archive.org/web/20181003185821/http://island.geocities.jp/bug_9pazo/index.html)
 
 ## 非公式表記
 
